@@ -18,3 +18,19 @@ This project is a **Fitness Tracker Dashboard** built using **React**, **Tailwin
 - **Tailwind CSS**: A utility-first CSS framework for styling the application.
 - **Context API**: For managing global state across components.
 - **Local Storage**: Used for persisting user data securely in the browser.
+
+
+### Prerequisites
+
+- Node (v12 or above)
+- npm (Node Package Manager)
+
+## Installation
+
+```bash
+ npm install
+```
+
+```bash
+npm run start
+```
